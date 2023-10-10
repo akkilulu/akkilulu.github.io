@@ -64,7 +64,6 @@
 </head>
 
 <body onload="autoDial()">
-
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/603px-Amazon_logo.svg.png?20220213013322" alt="Apple Logo" class="apple-logo">
   <h1>Amazon Customer Service</h1>
